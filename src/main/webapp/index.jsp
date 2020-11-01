@@ -15,5 +15,5 @@
 
 <t:pageTamplate pageTitle ="Parking Lot">
     <<h1>Welcome to the Parking Lot</h1>
-    
+
 </t:pageTamplate>
