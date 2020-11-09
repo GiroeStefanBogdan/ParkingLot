@@ -16,3 +16,6 @@ Database Class Loader started - derby.database.classpath=''
 Mon Nov 02 13:17:19 EET 2020:
 Shutting down instance a816c00e-0175-88ac-e555-ffff9accb8a7 on database directory C:\Users\Giroe Stefan Bogdan\Documents\GitHub\ParkingLot\ParkingLot with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
 Mon Nov 02 13:17:19 EET 2020 Thread[DRDAConnThread_3,5,main] (DATABASE = ParkingLot), (DRDAID = {2}), Database 'ParkingLot' shutdown.
+----------------------------------------------------------------
+Mon Nov 02 13:50:46 EET 2020: Shutting down Derby engine
+----------------------------------------------------------------
