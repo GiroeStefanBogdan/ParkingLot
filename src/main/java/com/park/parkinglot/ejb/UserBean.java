@@ -15,7 +15,7 @@ import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.Query;
-import sun.rmi.runtime.Log;
+//import sun.rmi.runtime.Log;
 
 /**
  *

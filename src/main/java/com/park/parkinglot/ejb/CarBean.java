@@ -6,7 +6,7 @@
 package com.park.parkinglot.ejb;
 
 import com.park.parkinglot.common.CarDetails;
-import com.park.parkinglot.entity.Car;
+//import com.park.parkinglot.entity.Car;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Logger;
@@ -15,6 +15,8 @@ import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.Query;
+//import com.park.parkinglot.ejb.CarBean;
+import com.park.parkinglot.entity.Car;
 
 /**
  *
