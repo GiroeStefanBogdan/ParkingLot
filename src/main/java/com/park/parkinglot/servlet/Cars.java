@@ -105,6 +105,7 @@ public class Cars extends HttpServlet {
             }
             carBean.deleteCarsByIds(carIds);
         }
+        response.sendRedirect(request.getContextPath()+"/AddCar");
     }
 
     /**
